@@ -6,30 +6,48 @@
 </p>
 
 ### 🏭 Bridging IT & OT (Operational Technology)
-I am a Software Engineer focused on the intersection of modern software architectures and industrial automation. I specialize in building systems that connect high-level logic with physical world processes.
+I am a Software Engineer focused on the intersection of modern software architectures and industrial automation.
 
-- 🔭 **Currently Building:** An industrial machine fault prediction, detection, and prevention system.
-- 📚 **Deep Diving:** PLC programming, SCADA systems, and Cyber-Physical Systems (CPS).
-- 💬 **Ask me about:** Integrating distributed systems with industrial hardware or full-stack development.
-- 📫 **Reach me at:** [stevan.sapun@gmail.com](mailto:stevan.sapun@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core**
-![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java,html,css)
-
-**Frameworks & Libraries**
-![Frameworks](https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind)
-
-**Infrastructure, Cloud & Data**
-![Infrastructure](https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma)
+- 🔭 **Currently Building:** Industrial machine fault prediction and prevention systems.
+- 📚 **Deep Diving:** PLC, SCADA, and Cyber-Physical Systems (CPS).
+- 💬 **Ask me about:** Integrating distributed systems with industrial hardware.
 
 ---
 
-### 🏙️ My Code City (Contribution Graph)
-<!-- This section updates every 24h via GitHub Action -->
+### 🛠️ Expertise & Domains
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🛠️ Technologies</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java,html,css,angular,react,dotnet,spring,django,flask,tailwind,aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=6" />
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4 align="center">🚀 Focus</h4>
+      <p align="center">
+        <b>Industrial IoT</b><br>
+        <b>SCADA/PLC</b><br>
+        <b>Distributed Systems</b><br>
+        <b>Cloud Native</b>
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4 align="center">🧠 AI Domains</h4>
+      <p align="center">
+        <b>Machine Learning</b><br>
+        <b>Fault Prediction</b><br>
+        <b>Computer Vision</b><br>
+        <b>Edge AI</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏙️ My Code City
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
@@ -39,31 +57,35 @@ I am a Software Engineer focused on the intersection of modern software architec
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/SasteS/sbnz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&theme=tokyonight" />
   </a>
   <a href="https://github.com/SasteS/ProjekatRI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
+  <!-- FIXED: This was an organization repo, requiring specific parameters -->
   <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&theme=tokyonight" />
   </a>
   <a href="https://github.com/SavaMander/cloud-movies">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/stevan-sapun-26a81937b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:stevan.sapun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🤝 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/stevan-sapun-26a81937b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:stevan.sapun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
 </p>
 
-<br />
-
 <p align="center">
-  <img src="https://novatorem-readme-spotify.vercel.app/api/spotify" alt="Spotify" />
+  <img src="https://komarev.com/ghpvc/?username=SasteS&color=40E0D0&style=flat-square&label=PROFILE+VIEWS" />
 </p>
