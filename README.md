@@ -1,6 +1,6 @@
-<!-- HEADER: Solid Black + Twinkle Animation -->
+<!-- HEADER: Solid Black background for theme consistency. 'soft' animation for visible pulsing effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=soft" width="100%" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
