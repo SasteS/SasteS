@@ -62,6 +62,14 @@ I am a Software Engineer at the intersection of modern software architecture and
 
 ---
 
+### 📜 Latest Lab Notes
+<!-- Replace YOUR_USERNAME with SasteS -->
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasteS&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
 ### 🤝 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/stevan-sapun-26a81937b/">
