@@ -1,8 +1,9 @@
-<!-- HEADER: Forced Black, Yellow Text, Clear FadeIn Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn&v=1" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Software+Engineer" alt="Typing SVG" />
 </p>
+
 
 ### 🏭 Bridging IT & OT (Operational Technology)
 I am a Software Engineer focused on the intersection of modern software architectures and industrial automation. Specializing in machine fault prediction and Cyber-Physical Systems.
