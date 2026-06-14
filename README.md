@@ -1,7 +1,9 @@
 <!-- HEADER: Solid Black + Twinkle Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=twinkle" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1a1a1a&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"
+    width="100%"
+  />
 </p>
 
 ---
@@ -28,33 +30,70 @@
 
 ---
 
+---
+
 ### 🌟 Featured Projects
-<!-- Compact layout forces all 4 boxes to be identical height -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/SasteS/sbnz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SasteS/ProjekatRI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SavaMander/cloud-movies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-  </tr>
+
+<table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
+<tr>
+<td width="50%" style="border: none; padding: 8px;">
+
+<div align="center" style="height: 180px; overflow: hidden;">
+<a href="https://github.com/SasteS/sbnz">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"
+width="100%"
+height="180"
+/>
+</a>
+</div>
+
+</td>
+
+<td width="50%" style="border: none; padding: 8px;">
+
+<div align="center" style="height: 180px; overflow: hidden;">
+<a href="https://github.com/SasteS/ProjekatRI">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"
+width="100%"
+height="180"
+/>
+</a>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="border: none; padding: 8px;">
+
+<div align="center" style="height: 180px; overflow: hidden;">
+<a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"
+width="100%"
+height="180"
+/>
+</a>
+</div>
+
+</td>
+
+<td width="50%" style="border: none; padding: 8px;">
+
+<div align="center" style="height: 180px; overflow: hidden;">
+<a href="https://github.com/SavaMander/cloud-movies">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"
+width="100%"
+height="180"
+/>
+</a>
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
