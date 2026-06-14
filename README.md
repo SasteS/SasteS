@@ -1,6 +1,6 @@
-<!-- HEADER: Solid Black background to prevent Light Mode bugs, Yellow text for Industrial theme -->
+<!-- HEADER: Solid black background with 'twinkle' animation for industrial feel -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&section=header&reversal=false&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=twinkle" width="100%" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
@@ -15,55 +15,33 @@ I am a Software Engineer focused on the intersection of modern software architec
 
 ### 🛠️ Expertise & Technical Stack
 
-<table width="100%" border="0">
-  <tr>
-    <th width="33%">💻 Languages</th>
-    <th width="33%">📦 Frameworks</th>
-    <th width="33%">⚙️ Infrastructure</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=7" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=10" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
-<!-- Using border="0" and compact layout to ensure identical box sizes -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/SasteS/sbnz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SasteS/ProjekatRI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SavaMander/cloud-movies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- No Tables = No Gridlines. Fixed widths = Identical Dimensions -->
+<p align="center">
+  <a href="https://github.com/SasteS/sbnz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=FFD700&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="48%" />
+  </a>
+  <a href="https://github.com/SasteS/ProjekatRI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=FFD700&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=FFD700&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="48%" />
+  </a>
+  <a href="https://github.com/SavaMander/cloud-movies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=FFD700&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact" width="48%" />
+  </a>
+</p>
 
 ---
 
