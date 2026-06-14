@@ -56,7 +56,3 @@ I am a Software Engineer focused on the intersection of modern software architec
     <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black" height="35" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SasteS&color=FFD700&style=flat-square&label=SYSTEM+ACCESS+COUNT" />
-</p>
