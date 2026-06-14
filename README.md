@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=GGGGGGheight=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn" width="100%" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Software+Engineer" alt="Typing SVG" />
 </p>
