@@ -24,13 +24,13 @@ I am a Software Engineer focused on the intersection of modern software architec
 ---
 
 ### 🛠️ Expertise & Technical Stack
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="33%" align="center" valign="top">
       <h4>💻 Languages</h4>
       <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="34%" align="center" valign="top">
       <h4>📦 Frameworks</h4>
       <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
     </td>
@@ -38,10 +38,6 @@ I am a Software Engineer focused on the intersection of modern software architec
       <h4>⚙️ Infrastructure</h4>
       <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
     </td>
-  </tr>
-  <!-- FORCED WIDTH SPACER -->
-  <tr>
-    <td colspan="3"><img src="https://raw.githubusercontent.com/SasteS/SasteS/main/transparent.png" width="1000" height="1" /></td>
   </tr>
 </table>
 
