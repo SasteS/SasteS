@@ -24,51 +24,31 @@ I am a Software Engineer focused on the intersection of modern software architec
 ---
 
 ### 🛠️ Expertise & Technical Stack
-<table width="100%" border="0">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>💻 Languages</h4>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>📦 Frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>⚙️ Infrastructure</h4>
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌟 Featured Projects
-<table width="100%" border="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/SasteS/sbnz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SasteS/ProjekatRI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SavaMander/cloud-movies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
-      </a>
-    </td>
-  </tr>
+<table width="100%">
+  <!-- This hidden header forces the table to take up the full width of the profile -->
+  <thead>
+    <tr width="100%">
+      <th width="33.3%"></th>
+      <th width="33.3%"></th>
+      <th width="33.3%"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <h4>💻 Languages</h4>
+        <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <h4>📦 Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <h4>⚙️ Infrastructure</h4>
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
