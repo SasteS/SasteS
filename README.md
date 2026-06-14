@@ -5,14 +5,15 @@
 
 <!-- LAYER 2: TERMINAL TYPING LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f2d930&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f2d930&center=true&vCenter=true&width=600&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun;%3E+Full-Stack+%2B+Cloud+Engineer;%3E+Industrial+ML+Enthusiast" />
 </p>
 
 <!-- LAYER 3: BRACKETED DESCRIPTION -->
 <p align="center">
- <code>「 Full-Stack & Cloud-ML Engineer Advancing Industrial Cyber-Physical Systems 」</code>
+ <code>[ Full-Stack & Cloud-ML Engineer Advancing Industrial Cyber-Physical Systems ]</code>
 </p>
 
+<!-- LAYER 4: MAIN MISSION STATEMENT -->
 <h1 align="center">
   <font color="#f2d930">Engineering Scalable Cloud-Native Industrial Solutions</font>
 </h1>
@@ -22,34 +23,34 @@ I am a Software Engineer at the intersection of modern software architecture and
 
 ---
 
+### 📊 Lab Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasteS&bg_color=0d1117&color=f2d930&line=f2d930&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
 ### 🛠️ Expertise & Technical Stack
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <!-- Column 1: Aligned Left -->
-    <td width="33%" align="left" valign="top">
-      <h4 align="center">💻 Languages</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/--💻_Languages--0d1117?style=for-the-badge&labelColor=f2d930&color=0d1117" /><br><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" /><br>
+      <img src="https://img.shields.io/badge/Ladder_Diagram-f2d930?style=flat-square&logo=diagram&logoColor=black" />
+      <img src="https://img.shields.io/badge/Structured_Text-f2d930?style=flat-square&logo=codepen&logoColor=black" />
     </td>
-    <!-- Column 2: Aligned Center -->
     <td width="34%" align="center" valign="top">
-      <h4 align="center">📦 Frameworks</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
-      </p>
+      <img src="https://img.shields.io/badge/--📦_Frameworks--0d1117?style=for-the-badge&labelColor=f2d930&color=0d1117" /><br><br>
+      <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
     </td>
-    <!-- Column 3: Aligned Right -->
-    <td width="33%" align="right" valign="top">
-      <h4 align="center">⚙️ Infrastructure</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/--⚙️_Infrastructure--0d1117?style=for-the-badge&labelColor=f2d930&color=0d1117" /><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
     </td>
   </tr>
-  <!-- THE STRETCH: Transparent image that forces the table to the edges -->
+  <!-- DYNAMIC SPACER: Forces the columns to the extreme edges -->
   <tr>
-    <td colspan="3"><img src="https://raw.githubusercontent.com/SasteS/SasteS/main/transparent.png" width="815" height="1" /></td>
+    <td colspan="3"><img src="https://raw.githubusercontent.com/SasteS/SasteS/main/transparent.png" width="850" height="1" /></td>
   </tr>
 </table>
 
@@ -58,14 +59,6 @@ I am a Software Engineer at the intersection of modern software architecture and
 ### 🏙️ My Code City
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-</p>
-
----
-
-### 📜 Latest Lab Notes
-<!-- Replace YOUR_USERNAME with SasteS -->
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasteS&bg_color=0d1117&color=f2d930&line=f2d930&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -79,4 +72,8 @@ I am a Software Engineer at the intersection of modern software architecture and
   <a href="mailto:stevan.sapun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black" height="35" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SasteS&color=FFD700&style=flat-square&label=SYSTEM+ACCESS+COUNT" />
 </p>
