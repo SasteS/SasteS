@@ -13,13 +13,12 @@
  <code>「 Full-Stack & Cloud-ML Engineer Advancing Industrial Cyber-Physical Systems 」</code>
 </p>
 
-<!-- LAYER 4: MAIN MISSION STATEMENT -->
 <h1 align="center">
-  <font color="#f2d930">Designing Scalable Cyber-Physical Systems</font>
+  <font color="#f2d930">Engineering Scalable Cloud-Native Industrial Solutions</font>
 </h1>
 
 ### 🏭 Bridging IT & OT (Operational Technology)
-I am a Software Engineer focused on the intersection of modern software architectures and industrial automation. Specializing in machine fault prediction and Cyber-Physical Systems.
+I am a Software Engineer at the intersection of modern software architecture and industrial automation. My current core interests include **machine fault prediction**, **distributed systems**, and the development of **Cyber-Physical Systems (CPS)**.
 
 ---
 
