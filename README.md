@@ -10,7 +10,7 @@
 
 <!-- LAYER 3: BRACKETED DESCRIPTION -->
 <p align="center">
- <code>[ Software Engineer working on improvement of Cyber-Physical and Industrial Systems using modern software solutions ]</code>
+ <code>[ Full-Stack & Cloud-ML Engineer Advancing Industrial Cyber-Physical Systems ]</code>
 </p>
 
 <!-- LAYER 4: MAIN MISSION STATEMENT -->
