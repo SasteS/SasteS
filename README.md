@@ -10,7 +10,7 @@
 
 <!-- LAYER 3: BRACKETED DESCRIPTION -->
 <p align="center">
- <code>[ Software Engineer bridging modern code with Industrial Automation ]</code>
+ <code>[ Software Engineer working on improvement of Cyber-Physocal and Industrial Systems using modern software solutions ]</code>
 </p>
 
 <!-- LAYER 4: MAIN MISSION STATEMENT -->
