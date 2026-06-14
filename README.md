@@ -1,30 +1,49 @@
-<!-- HEADER: Solid Black background for theme consistency. 'soft' animation for visible pulsing effect -->
+<!-- HEADER: Forced Black, Yellow Text, Clear FadeIn Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=soft" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn&v=1" width="100%" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
+
+### 🏭 Bridging IT & OT (Operational Technology)
+I am a Software Engineer focused on the intersection of modern software architectures and industrial automation. Specializing in machine fault prediction and Cyber-Physical Systems.
 
 ---
 
 ### 🛠️ Expertise & Technical Stack
-<table width="100%" border="0">
-  <tr>
-    <th width="33%" align="center">💻 Languages</th>
-    <th width="33%" align="center">📦 Frameworks</th>
-    <th width="33%" align="center">⚙️ Infrastructure</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=8" />
+</p>
+<p align="center">
+  <b>Frameworks:</b><br>
+  <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=7" />
+</p>
+<p align="center">
+  <b>Infrastructure:</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=10" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+<!-- NO TABLES = NO GRIDLINES. Compact layout = Identical dimensions -->
+<p align="center">
+  <a href="https://github.com/SasteS/sbnz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
+  </a>
+  <a href="https://github.com/SasteS/ProjekatRI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
+  </a>
+  <a href="https://github.com/SavaMander/cloud-movies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
+  </a>
+</p>
 
 ---
 
@@ -44,4 +63,8 @@
   <a href="mailto:stevan.sapun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black" height="35" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SasteS&color=FFD700&style=flat-square&label=SYSTEM+ACCESS+COUNT" />
 </p>
