@@ -1,9 +1,7 @@
 <!-- HEADER: Solid Black + Twinkle Animation -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1a1a1a&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=200&text=Stevan%20Sapun&fontSize=70&fontColor=FFD700&animation=twinkle" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
