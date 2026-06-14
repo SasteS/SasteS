@@ -25,30 +25,24 @@ I am a Software Engineer focused on the intersection of modern software architec
 
 ### 🛠️ Expertise & Technical Stack
 <table width="100%">
-  <!-- This hidden header forces the table to take up the full width of the profile -->
-  <thead>
-    <tr width="100%">
-      <th width="33.3%"></th>
-      <th width="33.3%"></th>
-      <th width="33.3%"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <h4>💻 Languages</h4>
-        <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
-      </td>
-      <td align="center" valign="top">
-        <h4>📦 Frameworks</h4>
-        <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
-      </td>
-      <td align="center" valign="top">
-        <h4>⚙️ Infrastructure</h4>
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📦 Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>⚙️ Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
+    </td>
+  </tr>
+  <!-- FORCED WIDTH SPACER -->
+  <tr>
+    <td colspan="3"><img src="https://raw.githubusercontent.com/SasteS/SasteS/main/transparent.png" width="1000" height="1" /></td>
+  </tr>
 </table>
 
 ---
