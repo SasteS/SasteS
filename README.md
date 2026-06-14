@@ -1,6 +1,6 @@
 <!-- LAYER 1: LARGE NAME BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEDC34&height=250&section=header&text=Stevan%20Sapun&fontSize=80&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2d930&height=250&section=header&text=Stevan%20Sapun&fontSize=80&fontColor=000000" width="100%" />
 </p>
 
 <!-- LAYER 2: TERMINAL TYPING LINE -->
