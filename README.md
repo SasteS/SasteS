@@ -39,28 +39,6 @@ I am a Software Engineer focused on the intersection of modern software architec
 
 ---
 
-### 🌟 Featured Projects
-<!-- NO TABLES = NO GRIDLINES. Compact layout = Identical dimensions -->
-<p align="center">
-  <a href="https://github.com/SasteS/sbnz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
-  </a>
-  <a href="https://github.com/SasteS/ProjekatRI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
-  </a>
-  <a href="https://github.com/SavaMander/cloud-movies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&layout=compact&v=1" width="49%" />
-  </a>
-</p>
-
----
-
 ### 🏙️ My Code City
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
