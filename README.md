@@ -1,8 +1,22 @@
+<!-- LAYER 1: LARGE NAME BANNER -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=STEVAN+SAPUN;SOFTWARE+ENGINEER;IIOT+DEVELOPER" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Stevan%20Sapun&fontSize=80&fontColor=40E0D0" width="100%" />
 </p>
+
+<!-- LAYER 2: TERMINAL TYPING LINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=40E0D0&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun" />
+</p>
+
+<!-- LAYER 3: BRACKETED DESCRIPTION -->
+<p align="center">
+ <code>[ Software Engineer bridging modern code with Industrial Automation ]</code>
+</p>
+
+<!-- LAYER 4: MAIN MISSION STATEMENT -->
+<h1 align="center">
+  <font color="#40E0D0">Designing Scalable Cyber-Physical Systems</font>
+</h1>
 
 ### 🏭 Bridging IT & OT (Operational Technology)
 I am a Software Engineer focused on the intersection of modern software architectures and industrial automation. Specializing in machine fault prediction and Cyber-Physical Systems.
