@@ -5,7 +5,7 @@
 
 <!-- LAYER 2: TERMINAL TYPING LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f2d930&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f2d935&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun" />
 </p>
 
 <!-- LAYER 3: BRACKETED DESCRIPTION -->
