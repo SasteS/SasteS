@@ -5,7 +5,7 @@
 
 <!-- LAYER 2: TERMINAL TYPING LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=c0b200&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f2d930&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Stevan+Sapun" />
 </p>
 
 <!-- LAYER 3: BRACKETED DESCRIPTION -->
@@ -15,7 +15,7 @@
 
 <!-- LAYER 4: MAIN MISSION STATEMENT -->
 <h1 align="center">
-  <font color="#40E0D0">Designing Scalable Cyber-Physical Systems</font>
+  <font color="#f2d930">Designing Scalable Cyber-Physical Systems</font>
 </h1>
 
 ### 🏭 Bridging IT & OT (Operational Technology)
@@ -24,18 +24,52 @@ I am a Software Engineer focused on the intersection of modern software architec
 ---
 
 ### 🛠️ Expertise & Technical Stack
-<p align="center">
-  <b>Languages:</b><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=8" />
-</p>
-<p align="center">
-  <b>Frameworks:</b><br>
-  <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=7" />
-</p>
-<p align="center">
-  <b>Infrastructure:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=10" />
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,cpp,java&perline=3" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📦 Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=angular,react,dotnet,spring,django,flask,tailwind&perline=3" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>⚙️ Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,postgres,mongodb,firebase,rabbitmq,git,figma&perline=3" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Projects
+<table width="100%" border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/SasteS/sbnz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=sbnz&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/SasteS/ProjekatRI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasteS&repo=ProjekatRI&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kzi-nastava/iot-2024-group-1-team-8">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzi-nastava&repo=iot-2024-group-1-team-8&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/SavaMander/cloud-movies">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SavaMander&repo=cloud-movies&border_color=f2d930&bg_color=0d1117&title_color=f2d930&text_color=ffffff&icon_color=f2d930&layout=compact" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,4 +89,8 @@ I am a Software Engineer focused on the intersection of modern software architec
   <a href="mailto:stevan.sapun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black" height="35" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SasteS&color=FFD700&style=flat-square&label=SYSTEM+ACCESS+COUNT" />
 </p>
