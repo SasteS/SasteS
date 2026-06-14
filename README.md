@@ -50,7 +50,7 @@ I am a Software Engineer focused on the intersection of modern software architec
   </tr>
   <!-- THE STRETCH: Transparent image that forces the table to the edges -->
   <tr>
-    <td colspan="3"><img src="https://raw.githubusercontent.com/SasteS/SasteS/main/transparent.png" width="990" height="1" /></td>
+    <td colspan="3"><img src="https://raw.githubusercontent.com/SasteS/SasteS/main/transparent.png" width="980" height="1" /></td>
   </tr>
 </table>
 
