@@ -1,5 +1,3 @@
-# Hi, I'm Stevan Sapun (SasteS) 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Stevan%20Sapun&fontSize=70&desc=Software%20Engineer&descSize=25&descAlignY=75&fontColor=40E0D0" width="100%" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IIoT+%2B+Industrial+Automation;Distributed+Systems+Architect;Machine+Learning+Enthusiast" alt="Typing SVG" />
