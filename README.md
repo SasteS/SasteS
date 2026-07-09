@@ -11,11 +11,11 @@
 
 <!-- LAYER 3: BRACKETED DESCRIPTION -->
 <p align="center">
- <code>「 Full-Stack & Cloud-ML Engineer Advancing Industrial Cyber-Physical Systems 」</code>
+ <code>「 Full-Stack & Cloud-ML Engineer Interested In Advancing Industrial Cyber-Physical Systems 」</code>
 </p>
 
 <h1 align="center">
-  <font color="#f2d930">Engineering Scalable Cloud-Native Industrial Solutions</font>
+  <font color="#f2d930">Engineering Scalable Cloud-Native Solutions</font>
 </h1>
 
 ### 🏭 Bridging IT & OT (Operational Technology)
